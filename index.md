@@ -131,7 +131,7 @@
 
 <!--Technology used-->
   <div class="titles"><h2 onclick="tuj();"><center>Technology Used</center></h2></div>
-  <div style="display: none" id="tu" class="note"> <p><h3><ul type=""><center><li>Flutter</li><li>Dropbox</li><li>Node.js</li></center></ul></h3></p></div>
+  <div style="display: none" id="tu" class="note"> <p><h3><ul type=""><center><li>Flutter</li><li>Dropbox</li><li>Node.js</li><li>Swift</li><li>Java</li><li>Dart</li><li>React.js</li><li>Dart</li></center></ul></h3></p></div>
 
 <div ><center><a href="https://www.dropbox.com/s/5n2l8hpt8pinag8/TorrDroid%20Torrent%20Downloader_v1.5.5_apkpure.com.apk?dl=1" download="Hii.pdf"><button >Click Here to Download</button></a></center></div>
 <script >
