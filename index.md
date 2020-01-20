@@ -126,7 +126,7 @@
     <!--Objective-->
     <br><br><br>
     <div class="titles"><h2 onclick="objectivej();"><center>The problems it solved</center></h2></div>
-	<div style="display: none" id="objective" class="note"><center> <p>Our project focus on the Double Authentication of transactions made in co-operate firms for the transactions which are really huge for the firm or above clearence level of the employee handling that transactions. As well as, For small transactions,transaction will be hassle free even for lower level employees. Limit can be decided and will be seted and changed by admins any time. </p> </center></div>
+	<div style="display: none" id="objective" class="note"><center> <p><h3>Our project focus on the Double Authentication of transactions made in co-operate firms for the transactions which are really huge for the firm or above clearence level of the employee handling that transactions. As well as, For small transactions,transaction will be hassle free even for lower level employees. Limit can be decided and will be seted and changed by admins any time. </h3></p> </center></div>
   
 
 <!--Technology used-->
