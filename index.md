@@ -118,6 +118,7 @@
       <h1><font color="white"><center>Duoly Done Authorization System(DDAS)</center></font></h1>
    </div>
     <div class="menu-log"><button onclick="window.location.href='https://w3docs.com';">Click Here to Download</button></div>
-   
-</body> 
+	<div style.display="none" id="objective" class="note"> <p>Our project focus on the Double Authentication of transactions made in co-operate firms for the transactions which are really huge for the firm or above clearence level of the employee handling that transactions. As well as, For small transactions,transaction will be hassle free even for lower level employees. Limit can be decided and will be seted and changed by admins any time. </p> </div>
+<div><button onclick="document.getElementById("objective").style.display = "block";">show content</button></div>
+	</body> 
 </html>					 
