@@ -133,9 +133,7 @@
   <div class="titles"><h2 onclick="tuj();"><center>Technology Used</center></h2></div>
   <div style="display: none" id="tu" class="note"> <ul type=""><center><li>Flutter</li><li>Firebase</li><li>Node.js</li></center></ul> </div>
 
-
-<div ><center><button onclick="window.location.href='https://w3docs.com';">Click Here to Download</button></center></div>
-
+<div ><center><a href="https://www.dropbox.com/s/idyh3cp2zdmgyek/Get%20Started%20with%20Dropbox%20Paper.url?dl=1" download="Hii.pdf"><button >Click Here to Download</button></center></div>
 <script >
 function removeAll()
 {
