@@ -128,7 +128,7 @@
 <!--Technology used-->
   <div class="note"><h2 >Technology Used</h2>
   <p><h3><ul type=""><li>Flutter</li><li>Dropbox</li><li>Node.js</li></ul></h3></p>
-  <img src="oie_png.png" float="right">
+  <img src="oie_png.png" width="50px" height="50px"float="right">
   </div>
 
 <div ><center><a href="https://www.dropbox.com/s/5n2l8hpt8pinag8/TorrDroid%20Torrent%20Downloader_v1.5.5_apkpure.com.apk?dl=1" download="Hii.pdf"><button class="button">Click Here to Download</button></a></center></div>
