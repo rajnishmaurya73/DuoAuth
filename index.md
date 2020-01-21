@@ -119,7 +119,7 @@
     <!--Objective-->
     <br><br><br>
     <div class="note" ><h2>Objective</h2>
-      <p><h3>Our project focus on the Double Authentication of transactions made in co-operate firms for the transactions which are really huge for the firm or above clearence level of the employee handling that transactions. As well as, For small transactions,transaction will be hassle free even for lower level employees. Limit can be decided and will be seted and changed by admins any time. </h3></p> </div>
+      <p><h3>Our project focus on the Double Authentication of transactions made in co-operate firms for the transactions which are really huge for the firm or above clearence level of the employee handling that transactions. As well as, For small transactions,transaction will be hassle free even for lower level employees. Limit can be decided and implied by admins any time. </h3></p> </div>
   
 
   <div class="note" ><h2>Workflow</h2>
