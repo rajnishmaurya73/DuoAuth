@@ -112,7 +112,7 @@
 
 <body style="background-color:#FFFFFF;">
    <div style="background-color:#243B55;padding:50px">
-      <h1><font color="white"><center>Duoly Done Authorization System(DDAS)</center></font></h1>
+      <h1><font color="white" size="20px"><center>Duoly Done Authorization System(DDAS)</center></font></h1>
    </div>
     
 
