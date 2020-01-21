@@ -112,7 +112,7 @@
 
 <body style="background-color:#FFFFFF;">
    <div style="background-color:#243B55;padding:50px">
-      <h1><font color="white" size="20px"><center>Duoly Done Authorization System(DDAS)</center></font></h1>
+      <h1><font color="white" size:25px><center>Duoly Done Authorization System(DDAS)</center></font></h1>
    </div>
     
 
@@ -126,12 +126,12 @@
       <p><h3>1. Client will initiate a payment(s) through ERP.<br>2. Transaction should be put on hold for clients where re-authorization / secondary authorization is enabled.<br>3. Based on the amount authorization engine should be able to trigger / seek approvals from required authorizers.<br><br>Authorization can be orchestrated using separate App can be built where approvals can be taken and re-directed back to the app for Approval mechanism needs to be password based followed with second factor authentication using OTP.</h3></p> </div>
 
 <!--Technology used-->
+<img src="oie_png.png" height="200px" width="200px" align="right" style="margin-right: 250px">
   <div class="note"><h2 >Technology Used</h2>
-  <p><h3><ul type=""><li>Flutter</li><li>Dropbox</li><li>Node.js</li></ul></h3></p>
-  <a><img src="oie_png.png" width=200 height=20 float="right"></a>
+  <p><h3><ul type=""><li>Node.js</li><li>Dart</li><li>Swift</li><li>Dropbox</li></ul></h3></p>
   </div>
-
-<div ><center><a href="https://www.dropbox.com/s/5n2l8hpt8pinag8/TorrDroid%20Torrent%20Downloader_v1.5.5_apkpure.com.apk?dl=1" download="Hii.pdf"><button class="button">Click Here to Download</button></a></center></div>
+<br>
+<div ><center><a href="https://www.dropbox.com/s/5n2l8hpt8pinag8/TorrDroid%20Torrent%20Downloader_v1.5.5_apkpure.com.apk?dl=1" download><button class="button">Click Here to Download</button></a></center></div>
 
 	</body> 
 </html>		 
