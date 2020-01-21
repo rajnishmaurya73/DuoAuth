@@ -66,13 +66,12 @@
 			margin-bottom:15px; 
 		} 
 		body { 
-			margin: 0 auto; 
+			margin: 50px auto; 
 			background-position:center; 
 			background-size: contain; 
 		} 
               .button {
-                       right: auto; 
-		       float: right;
+ 
                        background-color: #4CAF50;
                        border: none;
                        color: white;
@@ -85,16 +84,10 @@
                        }
                        .note
                        {
-                        font-size: 30px;
+                        font-size: 17px;
                         cursor:text;
+                        margin: 50px;
                        }
-              .menu-log {  
-			float: right;
-                        background-color: #4CAF50; 
-		        cursor:pointer;
-                        font-size: 16px;
-                        
-                  }
 		footer { 
 			width: 100%; 
 			bottom: 0px; 
@@ -118,59 +111,27 @@
 </head> 
 
 <body style="background-color:#FFFFFF;">
-   <div style="background-color:#243B55;padding:5px">
-      <h1><font color="white"><center>Duoly Done Authorization System(DDAS)</center></font></h1>
+   <div style="background-color:#243B55;padding:50px">
+      <h1><font color="white" size=25px><center>Duoly Done Authorization System(DDAS)</center></font></h1>
    </div>
     
 
     <!--Objective-->
     <br><br><br>
-    <div class="titles"><h2 onclick="objectivej();"><center>The problems it solved</center></h2></div>
-	<div style="display: none" id="objective" class="note"><center> <p><h3>Our project focus on the Double Authentication of transactions made in co-operate firms for the transactions which are really huge for the firm or above clearence level of the employee handling that transactions. As well as, For small transactions,transaction will be hassle free even for lower level employees. Limit can be decided and will be seted and changed by admins any time. </h3></p> </center></div>
+    <div class="note" ><h2>Objective</h2>
+      <p><h3>Our project focus on the Double Authentication of transactions made in co-operate firms for the transactions which are really huge for the firm or above clearence level of the employee handling that transactions. As well as, For small transactions,transaction will be hassle free even for lower level employees. Limit can be decided and will be seted and changed by admins any time. </h3></p> </div>
   
+
+  <div class="note" ><h2>Workflow</h2>
+      <p><h3>1. Client will initiate a payment(s) through ERP.<br>2. Transaction should be put on hold for clients where re-authorization / secondary authorization is enabled.<br>3. Based on the amount authorization engine should be able to trigger / seek approvals from required authorizers.<br><br>Authorization can be orchestrated using separate App can be built where approvals can be taken and re-directed back to the app for Approval mechanism needs to be password based followed with second factor authentication using OTP.</h3></p> </div>
 
 <!--Technology used-->
-  <div class="titles"><h2 onclick="tuj();"><center>Technology Used</center></h2></div>
-  <div style="display: none" id="tu" class="note"> <p><h3><ul type=""><center><li>Flutter</li><li>Dropbox</li><li>Node.js</li><li>Swift</li><li>Java</li><li>Dart</li><li>React.js</li><li>Dart</li></center></ul></h3></p></div>
+  <div class="note"><h2 >Technology Used</h2>
+  <p><h3><ul type=""><li>Flutter</li><li>Dropbox</li><li>Node.js</li></ul></h3></p>
+  <img src="oie_png.png" float="right">
+  </div>
 
-<div ><center><a href="https://www.dropbox.com/s/5n2l8hpt8pinag8/TorrDroid%20Torrent%20Downloader_v1.5.5_apkpure.com.apk?dl=1" download="Hii.pdf"><button >Click Here to Download</button></a></center></div>
-<script >
-function removeAll()
-{
-  var x=document.getElementsByClassName("note");
-  var i;
-  for (i = 0; i < x.length ; i++) {
-    x[i].style.display="none";
-  }
-}
-function objectivej()
-{
-  if (document.getElementById("objective").style.display=="block") 
-  {
-    removeAll();
+<div ><center><a href="https://www.dropbox.com/s/5n2l8hpt8pinag8/TorrDroid%20Torrent%20Downloader_v1.5.5_apkpure.com.apk?dl=1" download="Hii.pdf"><button class="button">Click Here to Download</button></a></center></div>
 
-  }
-  else
-  {
-    removeAll();
-    document.getElementById("objective").style.display="block";
-  }
-
-}
-function tuj()
-{
-  if (document.getElementById("tu").style.display=="block") 
-  {
-   removeAll();
-
-  }
-  else
-  {
-    removeAll();
-    document.getElementById("tu").style.display="block";
-  }
-  
-}
-</script>
 	</body> 
 </html>		 
