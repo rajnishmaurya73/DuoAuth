@@ -112,7 +112,7 @@
 
 <body style="background-color:#FFFFFF;">
    <div style="background-color:#243B55;">
-      <h1><font color="white" size="25px" style="padding:25px;"><center>Duoly Done Authorization System(DDAS)</center></font></h1>
+      <h1><font color="white" size="25px" style="padding:25px;"><center>DuoAuth</center></font></h1>
    </div>
     
 
@@ -131,7 +131,7 @@
   <p><h3><ul type=""><li>Node.js</li><li>Dart</li><li>Swift</li><li>Dropbox</li></ul></h3></p>
   </div>
 <br>
-<div ><center><a href="https://www.dropbox.com/s/5n2l8hpt8pinag8/TorrDroid%20Torrent%20Downloader_v1.5.5_apkpure.com.apk?dl=1" download><button class="button">Click Here to Download</button></a></center></div>
+<div ><center><a href="https://www.dropbox.com/s/h4h1kccvvzl295y/base.apk?dl=1" download><button class="button">Click Here to Download</button></a></center></div>
 
 	</body> 
 </html>		 
